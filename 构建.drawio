@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T02:39:59.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kLJQnUGCa4Ss-7CWnL2L" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T02:40:37.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YjjvXSMf8V4TeQ4ILL1f" version="20.8.13" type="github">
   <diagram name="第 1 页" id="wbK5zV-BcA1CDSby3hii">
     <mxGraphModel dx="1381" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,6 +17,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2PHm0Vm7zsU4-Fvx2To--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PHm0Vm7zsU4-Fvx2To--2" target="2PHm0Vm7zsU4-Fvx2To--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2PHm0Vm7zsU4-Fvx2To--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PHm0Vm7zsU4-Fvx2To--2" target="2PHm0Vm7zsU4-Fvx2To--15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2PHm0Vm7zsU4-Fvx2To--2" value="拉取代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -48,6 +51,12 @@
         </mxCell>
         <mxCell id="2PHm0Vm7zsU4-Fvx2To--11" value="构建完成通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2PHm0Vm7zsU4-Fvx2To--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PHm0Vm7zsU4-Fvx2To--15" target="2PHm0Vm7zsU4-Fvx2To--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2PHm0Vm7zsU4-Fvx2To--15" value="安全检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
